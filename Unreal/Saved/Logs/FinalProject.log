@@ -7691,3 +7691,6 @@ Sampler Limit: 32
 [2025.08.26-23.38.22:604][404]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
 [2025.08.26-23.38.22:605][404]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 [2025.08.26-23.38.22:605][404]LogPakFile: Destroying PakPlatformFile
+[2025.08.26-23.38.23:765][404]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.08.26-23.38.23:890][404]LogExit: Exiting.
+[2025.08.26-23.38.23:950][404]Log file closed, 08/26/25 17:38:23
