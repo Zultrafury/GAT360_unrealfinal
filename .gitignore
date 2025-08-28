@@ -45,8 +45,8 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
-Plugins/**/Binaries/*
+Unreal/Binaries/*
+Unreal/Plugins/**/Binaries/*
 
 # Builds
 Unreal/Build/*
