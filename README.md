@@ -1,5 +1,5 @@
 ### Fragmented Pieces 
-*Play as a young agile Kate as she tarnishes foes along her quest to gather the pieces that awake and angel
+*Play as a young agile Kate as she tarnishes foes along her quest to gather the pieces that awake and angel*
 
 <ins> Features </ins>
 - Magical Combat
