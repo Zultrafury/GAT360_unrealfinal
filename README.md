@@ -30,4 +30,5 @@ once downloaded, launch the exe and the game should run from there
   
 <img width="2559" height="1476" alt="Screenshot 2025-09-02 155147" src="https://github.com/user-attachments/assets/e7171420-0f60-4be9-ac9f-975789845bd5" />
 
-![Uploading Screenshot 2025-09-02 155724.png…]()
+<img width="2557" height="1477" alt="Screenshot 2025-09-02 155724" src="https://github.com/user-attachments/assets/d94682dd-3c32-427c-a8ab-a0bb1aed3d3d" />
+
