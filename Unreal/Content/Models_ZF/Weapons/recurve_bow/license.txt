@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ethereal Recurve Bow
+* source:	https://sketchfab.com/3d-models/ethereal-recurve-bow-a53696a51014459b844ecb0545f9b0bc
+* author:	begimqulovamalika616 (https://sketchfab.com/ebblender)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ethereal Recurve Bow" (https://sketchfab.com/3d-models/ethereal-recurve-bow-a53696a51014459b844ecb0545f9b0bc) by begimqulovamalika616 (https://sketchfab.com/ebblender) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
